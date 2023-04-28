@@ -3,4 +3,5 @@
 //     for (let arg of args) sum += arg;
 //     return sum;
 // }
-return 'true';
+// return 'true';
+return 5 == 5;
